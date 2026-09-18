@@ -1,2 +1,4 @@
 # HiCRCL
-This project investigates morphology and clinical error costs for cervical cytology classification across centers.
+
+The code for this project is currently being organized and will be released soon.
+Thank you for your patience and interest in our work.
